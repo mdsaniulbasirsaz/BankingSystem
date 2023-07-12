@@ -27,7 +27,6 @@ Create a new branch for your feature or bug fix.
 3. Push your changes to your forked repository.
 4. Submit a pull request.
 Please ensure that your code adheres to the project's coding conventions and includes appropriate documentation.
-# License
-This project is licensed under the MIT License.
+
 
 Feel free to update and customize the README.md file according to your project's specific needs.
